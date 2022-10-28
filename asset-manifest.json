@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demoClassifyImage/static/css/main.55ee6512.css",
+    "main.js": "/demoClassifyImage/static/js/main.db1b597b.js",
+    "index.html": "/demoClassifyImage/index.html",
+    "main.55ee6512.css.map": "/demoClassifyImage/static/css/main.55ee6512.css.map",
+    "main.db1b597b.js.map": "/demoClassifyImage/static/js/main.db1b597b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ee6512.css",
+    "static/js/main.db1b597b.js"
+  ]
+}
